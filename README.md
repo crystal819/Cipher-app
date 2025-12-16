@@ -1,6 +1,6 @@
 # Cipher app
 
-Several libraries have been used in order for my app to function as intended, one of them being matplotlib.
+Several libraries have been used in order for my app to function as intended, one of them being matplotlib. Therefore you will need to run pip install matplotlib prior to running my app.py file.
  
 Matplotlib is a library that is most commonly used when plotting data into a graph of any type. I used the bar chart for my frequency analysis so I used its bar method to do so.
 I also made several imports, for instance I imported FigureCanvasTKAgg from matplotlib.backends.backend_tkagg which is a class designed specifically for transforming matplotlib graphs/objects into tkinter objects which can then be easily manipulated.
