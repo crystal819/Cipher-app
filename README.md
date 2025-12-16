@@ -1,4 +1,4 @@
- #Cipher app
+#Cipher app
 
 Several libraries have been used in order for my app to function as intended, one of them being matplotlib.
  
